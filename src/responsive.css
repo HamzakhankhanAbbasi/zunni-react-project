@@ -1,0 +1,475 @@
+@media screen and (max-width: 1440px) {
+    .container {
+        max-width: 1340px !important;
+    }
+    .CaroselImages .item {
+        height: 220px;
+        width: 220px;
+    }
+    .boldText {
+        font-size: 40px;
+    }
+    .ViewImage img {
+        width: 230px;
+        height: 230px;
+    }
+    .Viewhoverwrap {
+        width: 230px;
+    }
+    .viewImg-wrap-img {
+        max-width: 230px    ;
+        min-height: 230px;
+        max-height: 230px    ;
+    }
+    .single-product-page .tab-content {
+        max-width: 400px;
+        padding: 0px 20px;
+    }
+    .profile-photo img {
+        max-width: 300px !important;
+    }
+    .user_audio {
+        justify-content: left !important;
+        text-align: left !important;
+    }
+    .profile-heading {
+        font-size: 20px;
+    }
+    .ParaHeading {
+        font-size: 30px;
+    }
+    /* Dashboard Responsive */
+    .header-searchBar {
+        margin-left: 320px;
+    }
+    .top-header, .dash_main_wrap1 {
+        overflow: hidden;
+    }
+    .left-dash-sect {
+        width: 300px;
+    }
+    .owlStaticImg img {
+        max-width: 220px;
+        min-height: 220px;
+        max-height: 220px;
+    }
+}
+
+@media screen and (max-width: 1320px) {
+    .container {
+        max-width: 1240px !important;
+    }
+    .CaroselImages .item {
+        height: 220px;
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        max-width: 1170px !important;
+    }
+    .ViewImage img {
+        width: 200px;
+        height: 200px;
+    }
+    .CaroselImages .owl-carousel .owl-item img {
+        max-width: 180px;
+        max-height: 170px;
+    }
+    .CaroselImages .item {
+        height: 220px;
+        width: 190px;
+    }
+    .boldText {
+        font-size: 30px;
+    }
+    .smallPara {
+        font-size: 14px;
+    }
+    .Viewhoverwrap {
+        width: 200px;
+        height: 200px;
+    }
+    .ViewmoreBttn {
+        margin-top: 30px;
+    }
+    .ViewmoreBttn a {
+        padding: 10px 25px;
+    }
+    .zast-img img {
+        max-width: 140px;
+    }
+    .wSect-1 .smallPara {
+        font-size: 20px;
+    }
+    .semiBoldText {
+        font-size: 35px;
+    }
+    .ParaHeading {
+        font-size: 30px;
+    }
+    .about-left-img img {
+        max-width: 220px;
+        max-height: 220px;
+    }
+    .mainLogo img {
+        max-width: 200px;
+    }
+    .rightNav .form-select {
+        max-width: 80px;
+    }
+    .wSect-1 {
+        padding-left: 20px;
+    }
+    .profile-photo img {
+        max-width: 250px;
+        min-height: 200px;
+    }
+    .profile-heading {
+        font-size: 22px;
+    }
+    .video-sect-hover img {
+        max-width: 220px;
+        min-height: 220px;
+        max-height: 220px;
+    }
+    .viewImg-wrap-img {
+        max-width: 230px;
+        min-height: 200px;
+        max-height: 200px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .Abouthover-img:hover .img-Abouthover {
+        display: block;
+        position: absolute;
+        right: 5px;
+        bottom: 40px;
+    }
+    .contact-box {
+        max-width: 270px;
+        min-width: 270px;
+        margin: 0 auto;
+    }
+    .top-about-img img {
+        max-width: 700px;
+        max-height: 700px;
+    }
+    /* Dashboard Responsive */
+    .dash-logo img {
+        max-width: 120px;
+    }
+    .left-dash-sect {
+        width: 250px;
+    }
+    .user_p_img img {
+        max-width: 80px;
+    }
+    .user_p_img:before {
+        right: 0px;
+        bottom: 15px;
+    }
+    .header-searchBar {
+        margin-left: 250px;
+    }
+}
+@media (max-width: 1100px) {
+    .CaroselImages .owl-carousel .owl-item img{
+        max-width: 150px;
+        min-height: 150px;
+    }
+    .ParaHeading {
+        font-size: 22px;
+    }
+    .about-left-img img {
+        max-width: 200px;
+        max-height: 200px;
+    }
+}
+@media (max-width: 1024px) {
+    .CaroselImages .owl-carousel .owl-item img {
+        max-width: 135px;
+        max-height: 135px;
+    }
+    .ParaHeading {
+        font-size: 20px;
+    }
+    .WelcomeSection {
+        padding: 30px 0px;
+    }
+    .owlStaticImg img {
+        max-width: 160px;
+        min-height: 160px;
+        max-height: 160px;
+    }
+    .infoText {
+        margin-top: -20px;
+    }
+}
+@media (max-width: 991px) {
+    .large_screen {
+        display: none;
+    }
+    .bottom-nav {
+        justify-content: center;
+    }
+    /* .mobile_screen {
+        display: block;
+    } */
+    .rightNav .form-select {
+        max-width: 100px;
+    }
+    .mainLogo img {
+        max-width: 150px;
+    }   
+    .boldText {
+        font-size: 20px;
+    }
+    .wSect-1 .smallPara {
+        font-size: 18px;
+    }
+    .TextBoxesWrap {
+        padding-top: 10px;
+    }
+    .ViewImage img {
+        width: 180px;
+        height: 180px;
+    }
+    .viewImg-wrap-img {
+        max-width: 180px;
+        min-height: 180px;
+        max-height: 180px;
+    }
+    .semiBoldText {
+        font-size: 30px;
+    }
+    .contact-box {
+        max-width: 240px;
+        min-width: 240px;
+    }
+    .contact-box {
+        padding: 10px;
+    }
+    .product-list, .single-product-page, .main_login {
+        padding: 50px 0;
+    }
+    .menuBar {
+        display: flex;
+    }
+    .largeScreenLeft {
+    display: none;
+    }
+    .owlStaticImg img {
+        max-width: 130px;
+        min-height: 130px;
+        max-height: 130px;
+    }
+    .infoText {
+        width: 370px;
+    }
+}
+@media(max-width:768px){
+    .CaroselImages .owl-carousel .owl-item img {
+        max-width: 180px;
+        max-height: 180px;
+    }
+    .infoText {
+        width: 350px;
+    }
+}
+@media(max-width: 767px){
+    .wSect-1 {
+        padding-top: 0;
+    }
+    .CaroselImages .item{
+        margin: 0 auto;
+    } 
+    .CaroselImages .owl-carousel .owl-item img {
+        max-width: 210px;
+        max-height: 210px;
+    }
+    .ViewImage {
+        margin-top: 50px;
+    }
+    .viewImg-wrap {
+        max-width: 250px;
+        max-height: 230px;
+    }
+    .ViewImage img {
+        width: 250px;
+        height: 230px;
+    }
+    .viewImg-wrap-img {
+        max-width: 250px;
+        min-height: 230px;
+        max-height: 230px;
+    }
+    .Viewhoverwrap {
+        width: 250px;
+        height: 230px;
+    }
+    .quicksect p {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    .AboutIntro {
+        padding: 40px 0px;
+    }
+    .Abouthover-img {
+        margin: 0;
+    }
+    .profile-photo img {
+        max-width: 200px !important;
+        object-fit: cover;
+        object-position: center;
+    }
+    .left-wrap {
+        text-align: center;
+    }
+    .profile-man-icon {
+        justify-content: center;
+    }
+    .tab-wrap {
+        flex-direction: column;
+    }
+    .Single_ParaHeading {
+        font-size: 20px;
+    }
+    .login_logo img {
+        max-width: 250px;
+        margin-bottom: 50px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .login-form-wrap input {
+        margin: 0 auto;
+    }
+    .login-form-wrap {
+        text-align: center;
+    }
+    .smallPara {
+        margin-top: 10px;
+    }
+    .form-bottom-bg p{
+        font-size: 18px;
+    }
+    .productlist-left-wrap .small-para {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .about-left-img {
+        padding: 20px 0 0;
+    }
+    .about-left-img img {
+        max-width: 170px;
+        max-height: 170px;
+        min-height: 170px;
+        object-fit: cover;
+        object-position: center;
+    }
+    .ViewBttn a {
+        padding: 10px 25px;
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .TextBoxesWrap {
+        margin-bottom: 20px;
+    }
+    .ParaHeading {
+        margin-bottom: 10px;
+    }
+    .infoText {
+        width: 550px;
+        position: absolute;
+        top: 260px;
+        margin-top: 0;
+    }
+    .owlStaticImg img {
+        margin-top: 20px;
+        max-width: 200px;
+        min-height: 200px;
+        max-height: 130px;
+    }
+}
+    @media(max-width: 575px){
+        .fb_socialIcons{
+            display: none;
+        }
+        .Abouthover-img{
+            margin: 0 auto;
+        }
+        .footerWrap {
+            flex-direction: column;
+        }
+        .myform {
+            flex-direction: column;
+        }
+        .myform .myform-box {
+            margin-bottom: 20px;
+        }
+        .infoText {
+            width: 400px;
+        }
+        .owlStaticImg img {
+            max-width: 150px;
+            min-height: 150px;
+            max-height: 150px;
+        }
+        .owlStaticImg-wrap {
+            flex-direction: column;
+        }
+        .owlStaticImg img {
+            max-width: 220px;
+            min-height: 220px;
+            max-height: 220px;
+        }
+}
+@media(max-width: 375px) {
+    .Select-Inp {
+        padding: 2px 10px;
+    }
+    .search-bttn {
+        margin: 0;
+        min-width: 230px;
+    }
+    .search-btn button {
+        padding: 5px;
+    }
+    .menuBar {
+        left: -5px;
+        top: 5px;
+    }
+    .search-btn input[type="text"] {
+        max-width: 55px;
+    }
+    .rightNav .form-select {
+        max-width: 75px;
+        padding: .3rem 2.2rem 0.3rem 0.05rem;
+    }
+    .rightNav {
+        width: 100%;
+        justify-content: flex-end;
+    }
+    .infoText {
+        display: none;
+    }
+    
+}
+@media(max-width: 320px){
+    .search-bttn {
+        margin: 0;
+        min-width: 150px;
+    }
+    .search-btn input[type="text"] {
+        max-width: 25px;
+    }
+    .rightNav .form-select {
+        max-width: 60px;
+    }
+    .about-left-img img {
+        max-width: 300px;
+        max-height: 300px;
+        min-height: 300px;
+    }
+}
